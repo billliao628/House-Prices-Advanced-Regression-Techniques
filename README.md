@@ -5,6 +5,6 @@ https://github.com/billliao628/House-Prices-Advanced-Regression-Techniques/blob/
 
 ## Further Discussion
 * If the score wanted to be increase, we can improve on few stuffs.
-** Do more EDA to see more first hand information that we might missed
-** Improve on data wrangling: it seems like some there are some columns that has value that doesn't make sense
-** Improve on tuning the Machine Learning Model
+  ** Do more EDA to see more first hand information that we might missed
+    ** Improve on data wrangling: it seems like some there are some columns that has value that doesn't make sense
+      ** Improve on tuning the Machine Learning Model
